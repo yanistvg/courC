@@ -1,0 +1,10 @@
+update.log
+*.o
+*.a
+*~
+#*#
+.#*
+.vscode
+norminette
+.idea
+*.exe
